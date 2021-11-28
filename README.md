@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Misbahoo
 - 👀 I’m interested in Web Development both Front and Backend
-- 🌱 I’m currently learning HTML,CSS,JS,PHP,MySQL
+- 🌱 I’m currently learning HTML,CSS,JS,Node.js,PHP,MySQL
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 
